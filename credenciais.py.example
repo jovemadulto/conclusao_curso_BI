@@ -1,0 +1,10 @@
+#                              SPOTIFY                              #
+## Passos para a obtenção de uma conta de desenvolvedor no Spotify ##
+## 1 -> Crie uma conta (gratuitamente ou paga) no Spotify.         ##
+## 2 -> Entre em: https://developer.spotify.com/dashboard          ##
+## 3 -> Faça login, se necessário.                                 ##
+## 4 -> Aceite os termos de uso, se concordar, e obtenha as chaves ##
+## 5 -> Substitua abaixo:                                          ##
+
+client_id="SUA_STRING_CLIENT_ID_AQUI"
+client_secret="SUA_STRING_CLIENT_SECRET_AQUI"
